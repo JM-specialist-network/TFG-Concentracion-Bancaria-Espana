@@ -1,6 +1,8 @@
 # Píldoras.TFG-Concentracion-Bancaria-Espana
 # Concentración bancaria y exclusión financiera en España (2007‑2023)
 
+![Logotipo_UM](figures/LogoUMU.png)
+
 Trabajo Fin de Grado presentado en la Universidad de Murcia (convocatoria extraordinaria de julio, curso académico 2024‑2025), ante tribunal académico del Grado en Economía.
 
 Este repositorio resume el análisis territorial de la concentración bancaria por provincias en España y su relación con el riesgo de exclusión financiera. El foco está en la evolución entre 2007, 2017 y 2023 y en cómo cambian los patrones de competencia en la llamada “España vaciada”. 
@@ -85,5 +87,3 @@ Created by **Jose Miguel Artiles** – Data Scientist & Economist-in-training.
 - GitHub: [JM-specialist-network](https://github.com/JM-specialist-network)  
 - Email: joseartiles@g***l.com
 - Para la obtención de los datos origen RAW, el trabajo o el Notebook completo contactar conmigo al email que aparece en mi perfil
-
-
