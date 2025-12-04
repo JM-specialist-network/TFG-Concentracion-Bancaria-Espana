@@ -87,3 +87,5 @@ Created by **Jose Miguel Artiles** – Data Scientist & Economist-in-training.
 - GitHub: [JM-specialist-network](https://github.com/JM-specialist-network)  
 - Email: joseartiles@g***l.com
 - Para la obtención de los datos en origen RAW, el trabajo, o el Notebook completo, contactar conmigo al email que aparece en mi perfil.
+
+![Logotipo_UM](figures/Logo_FEE.png)
