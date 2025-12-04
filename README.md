@@ -86,4 +86,4 @@ Created by **Jose Miguel Artiles** – Data Scientist & Economist-in-training.
 
 - GitHub: [JM-specialist-network](https://github.com/JM-specialist-network)  
 - Email: joseartiles@g***l.com
-- Para la obtención de los datos origen RAW, el trabajo o el Notebook completo contactar conmigo al email que aparece en mi perfil
+- Para la obtención de los datos en origen RAW, el trabajo, o el Notebook completo, contactar conmigo al email que aparece en mi perfil.
